@@ -3,8 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <QirOutputPath>C:\Repos\QuantumSamples\samples\getting-started\measurement\obj\qsharp\src\</QirOutputPath>
-    <QirGeneration>true</QirGeneration>
   </PropertyGroup>
 
 </Project>
